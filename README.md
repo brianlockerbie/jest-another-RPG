@@ -9,4 +9,4 @@ Created a command-line role-playing game (RPG) in which the user battles against
 * OOP
 * Node.js
 * Inquirer
-* ES6 class syntax
+* ES5 & ES6 syntax
